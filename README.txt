@@ -1,4 +1,5 @@
 WGames copy of no longer available plugin for Emojis (as of 2024-05-21)
+https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/page-5
 ------------------------
 
 
